@@ -2,7 +2,7 @@ StarWorks Token Contract
 
 Token name       : Starworks Global
 
-Abreviation code : STARX
+Abbreviation code : STARX
 
 Decimal          : 18
 
